@@ -24,12 +24,42 @@
     <ClInclude Include="templateTest.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="boostTest.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="cpp11Test.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="classTest.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="tstringTest.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="basicTest.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="ForTest.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="boostTest.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cpp11Test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="classTest.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tstringTest.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="basicTest.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
