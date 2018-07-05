@@ -1,4 +1,4 @@
-ddd#pragma once
+#pragma once
 class basicTest
 {
 public:
